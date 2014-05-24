@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameVolumn</string>
+	<string name="action_ok">OK</string>
+	<string name="desc_gamevolumn">Game Volumn</string>
+</resources>
